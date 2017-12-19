@@ -1,0 +1,5 @@
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\TestClassLibrary.dll
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestClassLibrary\bin\Debug\TestClassLibrary.pdb
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.dll
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.pdb

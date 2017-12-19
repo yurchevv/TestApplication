@@ -1,0 +1,9 @@
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestUnitTestProject\bin\Debug\TestUnitTestProject.dll
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestUnitTestProject\bin\Debug\TestUnitTestProject.pdb
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestUnitTestProject\bin\Debug\TestClassLibrary.dll
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestUnitTestProject\bin\Debug\TestClassLibrary.pdb
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestUnitTestProject\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestUnitTestProject\obj\Debug\TestUnitTestProject.csprojResolveAssemblyReference.cache
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestUnitTestProject\obj\Debug\TestUnitTestProject.dll
+c:\users\влад\documents\visual studio 2015\Projects\TestClassLibrary\TestUnitTestProject\obj\Debug\TestUnitTestProject.pdb
